@@ -1,47 +1,45 @@
 {
-"list": 
-[
-  {
-    "id": "0",
-    "timestamp": 1666669012,
-    "content": "123",
-    "note": "456"
-  },
-  {
-    "id": "1",
-    "timestamp": 1666834612,
-    "content": "123",
-    "note": "123",
-  },
-  {
-    "id": "2",
-    "timestamp": 1666150612,
-    "content": "123",
-    "note": "123",
-  },
-  {
-    "id": "3",
-    "timestamp": 1665977812,
-    "content": "123",
-    "note": "123",
-  },
-  {
-    "id": "4",
-    "timestamp": 1665805012,
-    "content": "123",
-    "note": "123",
-  },
-  {
-    "id": "5",
-    "timestamp": 1665373012,
-    "content": "123",
-    "note": "123",
-  },
-  {
-    "id": "6",
-    "timestamp": 1665373012,
-    "content": "123",
-    "note": "123",
-  },
-]
+    "list": [ {
+            "id": "0",
+            "timestamp": 1666669012,
+            "content": "123",
+            "note": "456"
+        },
+        {
+            "id": "1",
+            "timestamp": 1666834612,
+            "content": "123",
+            "note": "123"
+        },
+        {
+            "id": "2",
+            "timestamp": 1666150612,
+            "content": "123",
+            "note": "123"
+        },
+        {
+            "id": "3",
+            "timestamp": 1665977812,
+            "content": "123",
+            "note": "123"
+        },
+        {
+            "id": "4",
+            "timestamp": 1665805012,
+            "content": "123",
+            "note": "123"
+        },
+        {
+            "id": "5",
+            "timestamp": 1665373012,
+            "content": "123",
+            "note": "123"
+        },
+        {
+            "id": "6",
+            "timestamp": 1665373012,
+            "content": "123",
+            "note": "123"
+        }
+    ]
 }
