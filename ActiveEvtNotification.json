@@ -2,7 +2,7 @@
    "isSuccess": true,
    "Data": 
    {
-        "message": "Test Notification String!", // 顯示在Popup的訊息
+        "message": "Test Notification String!",
         "eventType": 1
    }
 }
