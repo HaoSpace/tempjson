@@ -1,0 +1,15 @@
+{
+  "isSuccess": true,
+  "Data": 
+  {
+        "isCancel": true,
+        "vaultData": 
+        {
+            "Name": "Humma Reeeee Dep",
+            "Level": 2,
+            "Network": [2, 5, 6]
+        },
+        "deviceType": 0,
+        "hash": "dsncslkdnclksndlsndcs" 
+    }
+}
