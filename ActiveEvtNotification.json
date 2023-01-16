@@ -3,6 +3,6 @@
    "Data": 
    {
         "message": "Test Notification String!",
-        "eventType": 1
+        "eventType": 0
    }
 }
