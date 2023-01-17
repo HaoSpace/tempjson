@@ -5,8 +5,8 @@
         "isCancel": true,
         "vaultData": 
         {
-            "Name": "Humma Reeeee Dep",
-            "Level": 2,
+            "vaultName": "Humma Reeeee Dep",
+            "level": 2,
             "Network": [2, 5, 6]
         },
         "deviceType": 0,
