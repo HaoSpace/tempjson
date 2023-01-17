@@ -8,14 +8,14 @@
       "time": 0,
       "vaultId": "vault01",
       "users": 
-      [
-        {
+      {
+        "from": {
           "icon": "http://simpleicon.com/wp-content/uploads/user1.png",
           "name": "GAVSDVSDVKSG",
           "email": "sdsnjo@asdv.com",
           "uid": 100000001
         }  
-      ]
+      }
     },
     {
       "id": "a02",
@@ -23,20 +23,20 @@
       "time": 0,
       "vaultId": "vault02",
       "users": 
-      [
-        {
+      {
+        "from": {
           "icon": "http://simpleicon.com/wp-content/uploads/user1.png",
           "name": "GAVSDVSDVKSG",
           "email": "sdsnjo@asdv.com",
           "uid": 100000002
         },
-        {
+        "to": {
           "icon": "http://simpleicon.com/wp-content/uploads/user1.png",
           "name": "GAVSDVSDVKSG",
           "email": "sdsnjo@asdv.com",
           "uid": 100000003
         } 
-      ]
+    }
     },
     {
       "id": "a03",
@@ -44,20 +44,20 @@
       "time": 0,
       "vaultId": "vault03",
       "users": 
-      [
-        {
+      {
+        "from": {
           "icon": "http://simpleicon.com/wp-content/uploads/user1.png",
           "name": "GAVSDVSDVKSG",
           "email": "sdsnjo@asdv.com",
           "uid": 100000004
         },
-        {
+        "to": {
           "icon": "http://simpleicon.com/wp-content/uploads/user1.png",
           "name": "GAVSDVSDVKSG",
           "email": "sdsnjo@asdv.com",
           "uid": 100000005
         } 
-      ]
+    }
     }
   ]
 }
